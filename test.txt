@@ -1,1 +1,3 @@
 this is commit test
+
+from now, we will merge by nornal merge, squesh, rebase.
